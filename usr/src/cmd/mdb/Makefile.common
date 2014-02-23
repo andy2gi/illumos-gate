@@ -82,6 +82,7 @@ COMMON_MODULES_KVM = \
 	mac \
 	mm \
 	mpt_sas \
+	mpt_sas3 \
 	mr_sas \
 	nca \
 	nsmb \

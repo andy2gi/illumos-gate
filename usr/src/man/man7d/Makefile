@@ -84,6 +84,7 @@ _MANFILES=	aac.7d		\
 		log.7d		\
 		mem.7d		\
 		mpt_sas.7d	\
+		mpt_sas3.7d	\
 		mr_sas.7d	\
 		msglog.7d	\
 		mt.7d		\

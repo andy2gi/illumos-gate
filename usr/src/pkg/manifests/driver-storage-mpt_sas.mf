@@ -62,34 +62,7 @@ driver name=mpt_sas class=scsi-self-identifying \
     alias=pciex1000,84 \
     alias=pciex1000,85 \
     alias=pciex1000,86 \
-    alias=pciex1000,87 \
-    alias=pciex1000,90 \
-    alias=pciex1000,91 \
-    alias=pciex1000,92 \
-    alias=pciex1000,93 \
-    alias=pciex1000,94 \
-    alias=pciex1000,95 \
-    alias=pciex1000,96 \
-    alias=pciex1000,97 \
-    alias=pciex1000,aa \
-    alias=pciex1000,ab \
-    alias=pciex1000,ac \
-    alias=pciex1000,ad \
-    alias=pciex1000,ae \
-    alias=pciex1000,af \
-    alias=pciex1000,c0 \
-    alias=pciex1000,c1 \
-    alias=pciex1000,c2 \
-    alias=pciex1000,c3 \
-    alias=pciex1000,c4 \
-    alias=pciex1000,c5 \
-    alias=pciex1000,c6 \
-    alias=pciex1000,c7 \
-    alias=pciex1000,c8 \
-    alias=pciex1000,c9 \
-    alias=pciex1000,d0 \
-    alias=pciex1000,d1 \
-    alias=pciex1000,d2
+    alias=pciex1000,87
 file path=kernel/drv/$(ARCH64)/mpt_sas group=sys
 file path=kernel/drv/mpt_sas.conf group=sys \
     original_name=SUNWmptsas:kernel/drv/mpt_sas.conf preserve=true

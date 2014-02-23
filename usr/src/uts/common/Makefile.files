@@ -1888,6 +1888,9 @@ MXFE_OBJS += mxfe.o
 MPTSAS_OBJS += mptsas.o mptsas_hash.o mptsas_impl.o mptsas_init.o \
 		mptsas_raid.o mptsas_smhba.o
 
+MPTSAS3_OBJS += mptsas3.o mptsas3_hash.o mptsas3_impl.o mptsas3_init.o \
+		mptsas3_raid.o mptsas3_smhba.o
+
 SFE_OBJS += sfe.o sfe_util.o
 
 BFE_OBJS += bfe.o
